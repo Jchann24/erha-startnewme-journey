@@ -10,4 +10,4 @@
 
 ## GitHub Pages
 
-- [Demo](https://jchann24.github.io/erha-startnewme-journey/)
+- [Demo](https://jasonnchann24.github.io/erha-startnewme-journey/)
